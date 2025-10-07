@@ -268,7 +268,7 @@ def main():
         )
         
         cement_type = st.selectbox(
-            "**Cement Type**",
+        Calculator*Cement Type**",
             [
                 'OPC 33 Grade conforming to IS 269',
                 'OPC 43 Grade conforming to IS 269',
@@ -473,7 +473,7 @@ def main():
         st.subheader("About This Application")
         
         st.markdown("""
-        ### 🏗️ Concrete Mix Design Calculator
+        ### 🏗️ Concrete Mix Design Calculator Developed by Gaurav Dane
         **As per IS 10262:2019 - Guidelines for Concrete Mix Design Proportioning**
         
         This application provides comprehensive concrete mix design calculations following the Indian Standard IS 10262:2019.
