@@ -268,7 +268,7 @@ def main():
         )
         
         cement_type = st.selectbox(
-        Calculator*Cement Type**",
+        "**Cement Type**",
             [
                 'OPC 33 Grade conforming to IS 269',
                 'OPC 43 Grade conforming to IS 269',
